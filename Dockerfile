@@ -1,1 +1,1 @@
-FROM nginx:1.13.3
+python:3.10-slim
