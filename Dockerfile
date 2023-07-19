@@ -4,4 +4,4 @@
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
 
-FROM jdk:11-zulu-alpine
+FROM mcr.microsoft.com/java/jdk:11-zulu-alpine
