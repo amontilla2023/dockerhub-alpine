@@ -4,4 +4,4 @@
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
 
-FROM python:3.10-slim
+FROM jdk:11-zulu-alpine
