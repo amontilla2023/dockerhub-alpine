@@ -4,4 +4,4 @@
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
 
-FROM mcr.microsoft.com/java/jdk:11-zulu-alpine
+FROM nginx:1.13.3
